@@ -16,6 +16,12 @@ This project combines:
 - **Tableau** for interactive analytics  
 - **Figma** for the learner-facing prototype  
 
+### **Prototype (Figma)**  
+You can explore the interactive prototype here:  
+**https://mentoraai.figma.site**
+
+*Note: The prototype is not fully complete, and Figma automatically deletes the hosted data after 90 days.*
+
 The platform models how learners progress, how content supports skill growth, and how organizations can track learning outcomes.
 
 ---
