@@ -68,20 +68,6 @@ A normalized relational schema connects learners, their skills, and the content 
 
 ---
 
-## **Project Structure**
-
-```
-Mentora_Final_Project/
-├── data/
-├── sql/
-├── python/
-├── tableau/
-├── figma/
-└── README.md
-```
-
----
-
 ## **Future Improvements**
 
 - Add a Streamlit or FastAPI interface  
@@ -93,5 +79,4 @@ Mentora_Final_Project/
 ## **Author**
 
 **Bruno Aro**  
-GitHub: https://github.com/bruno-aro  
 Portfolio: https://bruno-aro.github.io  
