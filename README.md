@@ -28,6 +28,10 @@ The platform models how learners progress, how content supports skill growth, an
 
 ## **Core Features**
 
+### **AI Mentor (Conversational Assistant)**
+Provides learners with guidance, skill explanations, and personalised learning suggestions.  
+The AI Mentor helps structure learning paths, answers questions, and supports continuous engagement inside the platform.
+
 ### **Learner Skill Mapping**
 Tracks skills and proficiency levels for each learner.
 
